@@ -1,6 +1,6 @@
 # DungeonVim
 
-Quick setup for neovim use vim-plug
+Quick setup for neovim use vim-plug. This is not so good at a complete plugin. So just enjoy coding.
 
 ## Features
 + Home screen: vim-startify
@@ -20,6 +20,15 @@ Quick setup for neovim use vim-plug
   - cpp: vim-cpp-morden
   - lua: vim-lua
 + Code completion: coc.vim
+
+## ScreenShots
+Home screen when enter nvim
+
+![Home Screen](https://github.com/TurtleWindly/DungeonVim/blob/main/ScreenShots/HomeScreen.PNG)
+
+Custom Vaffle (don't mind about what project i am doing)
+
+![Vaffle Screen](https://github.com/TurtleWindly/DungeonVim/blob/main/ScreenShots/VaffleScreen.PNG)
 
 ## Dowload
 Current version the creator using is neovim 0.7.0 beta but 0.6.0 and maybe more version can be used. <br />
