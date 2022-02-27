@@ -164,6 +164,12 @@ let g:ascii = [
 
 let g:startify_custom_header =
       \ 'startify#center(g:ascii + startify#fortune#boxed())'
+      
+let g:Turtle_quotes = [
+\'Even in a dungeon. You need to relax some times.',
+\]
+let g:startify_custom_footer =
+     \ 'startify#center(g:Turtle_quotes)'
 
 " BEGIN: Coc
 " Set internal encoding of vim, not needed on neovim, since coc.nvim using some
